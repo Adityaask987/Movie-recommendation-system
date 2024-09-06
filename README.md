@@ -19,10 +19,10 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-#Data
+# Data
 tmdb_5000_movies.csv: Contains movie metadata such as budget, genres, original language, popularity, and vote counts.
 tmdb_5000_credits.csv: Contains detailed information about the cast and crew of each movie.
-#Dependencies
+# Dependencies
 1.pandas
 2.numpy
 3.scikit-learn
